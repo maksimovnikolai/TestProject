@@ -16,3 +16,8 @@ class ViewController: UIViewController {
 
 }
 
+private extension ViewController {
+    // задача 1
+    
+}
+
