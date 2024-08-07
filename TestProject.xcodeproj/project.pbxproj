@@ -12,6 +12,7 @@
 		AD1446A72C62A114006CF74B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD1446A62C62A114006CF74B /* ViewController.swift */; };
 		AD1446AC2C62A115006CF74B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AD1446AB2C62A115006CF74B /* Assets.xcassets */; };
 		AD1446AF2C62A115006CF74B /* Base in Resources */ = {isa = PBXBuildFile; fileRef = AD1446AE2C62A115006CF74B /* Base */; };
+		AD8635792C63C6E300B74010 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AD8635782C63C6E300B74010 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		AD1446AB2C62A115006CF74B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		AD1446AE2C62A115006CF74B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		AD1446B02C62A115006CF74B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		AD8635782C63C6E300B74010 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				AD1446A22C62A114006CF74B /* AppDelegate.swift */,
 				AD1446A42C62A114006CF74B /* SceneDelegate.swift */,
 				AD1446A62C62A114006CF74B /* ViewController.swift */,
+				AD8635782C63C6E300B74010 /* SecondViewController.swift */,
 				AD1446AB2C62A115006CF74B /* Assets.xcassets */,
 				AD1446AD2C62A115006CF74B /* LaunchScreen.storyboard */,
 				AD1446B02C62A115006CF74B /* Info.plist */,
@@ -134,6 +137,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AD8635792C63C6E300B74010 /* SecondViewController.swift in Sources */,
 				AD1446A72C62A114006CF74B /* ViewController.swift in Sources */,
 				AD1446A32C62A114006CF74B /* AppDelegate.swift in Sources */,
 				AD1446A52C62A114006CF74B /* SceneDelegate.swift in Sources */,
