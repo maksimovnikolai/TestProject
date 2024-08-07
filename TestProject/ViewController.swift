@@ -28,5 +28,9 @@ class ViewController: UIViewController {
         "Hello world"
     }
     
+    func newFunc() {
+        // Лишний коммит
+    }
+    
 }
 
