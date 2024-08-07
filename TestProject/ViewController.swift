@@ -34,5 +34,7 @@ class ViewController: UIViewController {
     
     // Исправил ошибки
     
+    // еще что то добавили
+    
 }
 
