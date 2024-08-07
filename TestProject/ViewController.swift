@@ -21,5 +21,7 @@ private extension ViewController {
     
     // задача 2
     
+    // задача 3
+    
 }
 
