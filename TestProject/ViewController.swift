@@ -13,6 +13,11 @@ class ViewController: UIViewController {
         let label = UILabel()
         return label
     }()
+    
+    let textField: UITextField = {
+        let tf = UITextField()
+        return tf
+    }()
 
     override func viewDidLoad() {
         super.viewDidLoad()
