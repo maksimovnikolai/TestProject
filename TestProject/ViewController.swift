@@ -19,5 +19,9 @@ class ViewController: UIViewController {
         view.backgroundColor = .red
     }
     
+    func getSomeText() -> String {
+        "Hello world"
+    }
+    
 }
 
